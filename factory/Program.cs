@@ -7,7 +7,7 @@ namespace WzorceProjektowe
     {
         static void Main(string[] args)
         {
-            new Lab6AbstractFactory().Run();
+            new Lab7Bridge().Run();
         }
     }
 }
